@@ -20,6 +20,8 @@
 * View Lifecycle 이란?
 * weak, strong, unowned 의 차이
 * Frame 과 Bounds의 차이
+* Extension 이란?
+* 프로퍼티의 종류를 이야기 해보세요
 * Value type 과 Reference type의 차이
 * Optional, Optinal Binding에 대하여 설명해보기
 * ARC 이란
