@@ -13,6 +13,7 @@
 * 오토레이아웃을 코드로 작성하는 방법은 무엇인가?
 * Left Constraint 와 Leading Constraint 의 차이점
 * 스토리보드를 이용했을때의 장단점
+* StoryBoard가 Git 에서 충돌이 발생했습니다. 어떻게 해결하고 예방하시겠습니까?
 
 # Swift
 * Class와 Struct의 차이
@@ -26,6 +27,7 @@
 * Optional, Optinal Binding에 대하여 설명해보기
 * ARC 이란
 * Retain Cycle 이란?
+* 객체 간 순환참조를 발견하는 방법과 해결 방법은?
 * lazy 란?
 * as vs as! vs as? 의 차이
 * GCD API 동작 방식 설명해보기
@@ -41,5 +43,5 @@
 * Array Dictionary Set 등등의 컬렉션 타입은 value type 인가 reference type 인가?
 
 
-# 2021 WWDC
+# 2020 WWDC
 * https://www.youtube.com/watch?v=GEZhD3J89ZE&t=113s
