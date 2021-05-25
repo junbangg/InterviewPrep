@@ -41,6 +41,8 @@
 * Class A 와 Class B에 동일한 함수가 있다면 어떻게 바꿀 수 있나?
 * Enum / function / closure 각각 value type인가 reference type 인가?
 * Array Dictionary Set 등등의 컬렉션 타입은 value type 인가 reference type 인가?
+* 접근 지정자 5가지와 각각의 접근 허용범위
+* 클로저에 [weak self] 넣는 이유가 뭘까요?
 
 
 # 2020 WWDC
