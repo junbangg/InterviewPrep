@@ -1,49 +1,5 @@
 # iOS
 
-> 면접에서 나올법한 질문들
-
-
-
-
-</br>
-
-# AutoLayout
-* Auto Layout과 Safe Area에 대하여 설명해보기
-* hugging, resistance에 대해서 설명해보기
-* 오토레이아웃을 코드로 작성하는 방법은 무엇인가?
-* Left Constraint 와 Leading Constraint 의 차이점
-* 스토리보드를 이용했을때의 장단점
-* StoryBoard가 Git 에서 충돌이 발생했습니다. 어떻게 해결하고 예방하시겠습니까?
-
-# Swift
-* Class와 Struct의 차이
-* App Lifecycle 이란?
-* View Lifecycle 이란?
-* weak, strong, unowned 의 차이
-* Frame 과 Bounds의 차이
-* Extension 이란?
-* 프로퍼티의 종류를 이야기 해보세요
-* Value type 과 Reference type의 차이
-* Optional, Optinal Binding에 대하여 설명해보기
-* ARC 이란
-* Retain Cycle 이란?
-* 객체 간 순환참조를 발견하는 방법과 해결 방법은?
-* lazy 란?
-* as vs as! vs as? 의 차이
-* GCD API 동작 방식 설명해보기
-* Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명해보기
-* Delegate 패턴, Singleton 패턴의 정의와 예시
-* Optional이란 무엇인지
-* Delegates와 Notification 방식의 차이점
-* MVC 구조의 흐름, 역할 설명해보기
-* 프로토콜이란 무엇인가
-* MVC 와 MVVM의 차이
-* Class A 와 Class B에 동일한 함수가 있다면 어떻게 바꿀 수 있나?
-* Enum / function / closure 각각 value type인가 reference type 인가?
-* Array Dictionary Set 등등의 컬렉션 타입은 value type 인가 reference type 인가?
-* 접근 지정자 5가지와 각각의 접근 허용범위
-* 클로저에 [weak self] 넣는 이유가 뭘까요?
-
-
-# 2020 WWDC
-* https://www.youtube.com/watch?v=GEZhD3J89ZE&t=113s
+Today I Learned
+- 면접 예상 질문들
+- 복습 내용 정리
