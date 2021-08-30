@@ -16,7 +16,7 @@
     - insertSubview:aboveSubview()
     - insertSubview:bewlowSubview: 등을 사용해서 z-order 를 수정할 수 있다.
 
-* View Programming Guide for iOS https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1
+View Programming Guide for iOS https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1
 
-* Checklist for Implementing a Custom View
+Checklist for Implementing a Custom View
 http://developer.apple.com/library/ios/#documentation/windowsviews/conceptual/viewpg_iphoneos/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW23
