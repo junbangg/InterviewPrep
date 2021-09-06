@@ -1,0 +1,39 @@
+# Swift
+
+## Struct vs Class
+  > 둘중에 뭘 언제 써야하는게 맞을까??
+
+## Struct 과 Class 의 공통점
+  - 둘다 속성을 이용해서 값을 저장 할 수 있다
+  - 둘다 subscript 를 사용 할 수 있다
+  - 둘다 생성자가 있다 
+  - 둘다 확장이 가능하다 (extension)
+  - 둘다 프로토콜(protocol)을 사용할 수 있다
+  - 둘다 제네릭(generic) 을 사용할 수 있다
+  
+# Class
+  - Struct 과는 다르게 상속이 가능하다
+  - deinit() 이 가능하다
+  - 클래스는 참조형이다
+  
+# 언제 Struct 를 사용해야될까?
+  - Apple에서는 default로 struct 를 사용하라고 한다
+  - Simple Data Type (Task, User, Item) 일때 구조체 사용하는게 더 편하다
+  - Thread Safety
+    - 멀티쓰레드 환경에서는 구조체가 쓰레드 간에 복사가 가능하기 때문에 더 안전하다.
+    - 클래스를 멀티쓰레드 환경에서 썼다가는 race condition, deadlock 위험이 있다.
+    - 클래스는 쓰레드에 대한 고려를 따로 해서 구현해야된다. 구조체는 기본적으로 thread safety 가 제공됨
+  - Struct 에 내용물, 즉 속성들이 대부분 참조 type (String, Int..) 일때는, 클래스말고 구조체로 쌓아서 쓰는게 좋다
+  - 상속이 필요없을때
+# Struct 를 쓸때의 장점
+  - Value type 이라서 코드 다른 곳에서 바뀔 일이 없다
+  - 따라서 디버깅도 더 쉬울것 같다.
+  
+# 그럼 Class는 언제 써야할까?
+  > 클래스는 구조체 이상의 무언가가 필요할때 쓰는게 맞다. 그래서 struct 가 default 고, class 는 쫌 더 특별한 상황에서 쓰이는것 같다
+  - 상속이 필요할때
+  - deinit 이 필요할때
+  - identity가 
+  
+  
+  
