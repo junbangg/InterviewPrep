@@ -33,7 +33,13 @@
   > 클래스는 구조체 이상의 무언가가 필요할때 쓰는게 맞다. 그래서 struct 가 default 고, class 는 쫌 더 특별한 상황에서 쓰이는것 같다
   - 상속이 필요할때
   - deinit 이 필요할때
-  - identity가 
+  - identity가 필요할때.
+  - objective-c 와 함께 사용이 필요할때
+  - 인스턴스끼리 비교나 복사가 필요 없을때..즉, Window, UIViewController 처럼 한개만 필요하고 복사가 필요 없을때. UIViewController를 보통 새로 만들지, 복사를 하지않는다
+  - 인스턴스의 lifetime 이 외부에 의존할때. 파일이나, 데이터베이스랑 연결이 되었을때는 그걸 복사 할 필요가 없지
+
+# 한마디로 정리하자면!?!
+  > Class 만 제공해주는 기능이 필요할때는 Class를 사용하고, 그게 아니면 Struct 를 쓰자. 그래서 default 라고 하는건가보다
   
   
   
