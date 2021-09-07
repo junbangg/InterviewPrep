@@ -1,4 +1,5 @@
-# Swift
+# Swift 
+작성일: 2021년 9월 7일
 
 ## Struct vs Class
   > 둘중에 뭘 언제 써야하는게 맞을까??
