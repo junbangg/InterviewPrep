@@ -52,4 +52,4 @@
   참고자료
   
   https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes
-  https://blog.yagom.net/530/
+   https://blog.yagom.net/530/
