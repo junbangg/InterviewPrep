@@ -49,5 +49,7 @@
 # 한마디로 정리하자면!?!
   > Class 만 제공해주는 기능이 필요할때는 Class를 사용하고, 그게 아니면 Struct 를 쓰자. 그래서 default 라고 하는건가보다
   
+  참고자료
   
-  
+  https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes
+  https://blog.yagom.net/530/
